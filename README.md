@@ -23,8 +23,11 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzelic-code&&show_icons=true&theme=default)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzelic-code&layout=compact)
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=itzelic_01)](https://solved.ac/itzelic_01)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzelic-code&layout=Compact)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=itzelic_01)](https://solved.ac/itzelic_01)
 </div>
