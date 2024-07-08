@@ -28,6 +28,6 @@
 ![numpy](https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzelic-code&layout=Compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzelic-code&layout=compact)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=itzelic_01)](https://solved.ac/itzelic_01)
 </div>
