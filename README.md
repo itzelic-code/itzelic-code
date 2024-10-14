@@ -24,4 +24,5 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzelic-code&layout=compact)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=itzelic_01)](https://solved.ac/itzelic_01)
+  ![Itzell's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzelic-code&theme=tokyonight&show_icons=true)
 </div>
