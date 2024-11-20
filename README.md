@@ -1,8 +1,6 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dev%20Itzell.&animation=fadeIn)
-
 ### 📊 데이터 중심으로 사고하는 백엔드 개발자
 ### 👍 적절한 기술 선택을 위해 일단 경험하는 개발자
 ### 🏃‍♂️ 어떤 방향으로든 변화할 수 있는 개발자
