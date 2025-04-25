@@ -1,11 +1,3 @@
-# 안녕하세요, 백엔드 개발자 **김소현**입니다.
-
-### 📊 데이터 중심으로 사고하는 백엔드 개발자
-### 👍 적절한 기술 선택을 위해 다양한 경험을 추구하는 개발자
-### 🏃‍♂️ 어떤 방향으로든 변화할 수 있는 개발자
-
----
-
 ### 📧 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/en3873@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:메일주소)
